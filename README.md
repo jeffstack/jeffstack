@@ -31,7 +31,7 @@ Aqui estão as linguagens e ferramentas com as quais tenho trabalhado:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffstack&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffstack&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffstack&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais utilizadas" />
 </div>
 
