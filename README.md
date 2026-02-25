@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá, eu sou o Jefferson! 👋
 
-<!--
-**jeffstack/jeffstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos, estudos e códigos.
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante do 3º módulo de **Análise e Desenvolvimento de Sistemas (ADS)** no **IFSP** (Instituto Federal de São Paulo).
+- 💻 Focado no desenvolvimento Backend com o ecossistema da Microsoft, mas com conhecimentos sólidos em Frontend e Banco de Dados.
+- 🚀 Buscando sempre escrever códigos limpos, aprender novas tecnologias e resolver problemas reais através da programação.
+- 🌱 Atualmente aprofundando meus conhecimentos e construindo projetos práticos para evoluir como desenvolvedor.
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as linguagens e ferramentas com as quais tenho trabalhado:
+
+<div align="left">
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <!-- .NET -->
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <!-- SQL Server -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffstack&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffstack&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais utilizadas" />
+</div>
+
+<br>
+
+### 🤝 Como me encontrar
+
+Se quiser trocar uma ideia, falar sobre tecnologia, projetos ou oportunidades, sinta-se à vontade para me contatar:
+
+<a href="https://linkedin.com/in/jefferson-nascimento-snts" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Jefferson" />
+</a>
