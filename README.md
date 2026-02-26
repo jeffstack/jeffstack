@@ -28,8 +28,6 @@ Aqui estão as linguagens e ferramentas com as quais tenho trabalhado:
 
 <br>
 
-<br>
-
 ### 🤝 Como me encontrar
 
 Se quiser trocar uma ideia, falar sobre tecnologia, projetos ou oportunidades, sinta-se à vontade para me contatar:
